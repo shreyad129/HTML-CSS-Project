@@ -1,1 +1,2 @@
 # HTML-CSS-Project
+We are Explore World Trip Travel Support Company.Explore World was born from a passion for creating unforgettable travel experiences and helping adventurers uncover the beauty of our planet. We are a global travel and tourism platform dedicated to connecting explorers with their dream destinations, ensuring every journey is filled with discovery, joy, and inspiration.Our Mission At Explore World, our mission is to make travel seamless, affordable, and enriching for everyone.This website is build using HTML & CSS.
